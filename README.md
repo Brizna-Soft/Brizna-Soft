@@ -11,6 +11,7 @@ Somos **Brizna Soft**, un estudio pequeño de Honduras. Juntamos en un solo luga
 | [Guara](https://brizna-soft.github.io/programas/guara/) | Revisa tu PC y te explica en palabras sencillas qué tiene y qué hacer. |
 | [Mosquitero](https://brizna-soft.github.io/programas/mosquitero/) | Bloquea anuncios y rastreadores en Chrome, Edge y Brave. |
 | [HNTorrent](https://brizna-soft.github.io/programas/hntorrent/) | Cliente de BitTorrent liviano y en español. |
+| [Chachalaca](https://brizna-soft.github.io/programas/chachalaca/) | Sonidos y cambio de voz para Discord y los juegos con chat de voz. |
 | [CoopMinimap](https://brizna-soft.github.io/mods/coopminimap/) | Minimapa para jugar Hollow Knight: Silksong en cooperativo. |
 
 **¿Algo falla?** Cada programa tiene su botón «Reportar un problema». **¿Te sirve lo que hacemos?** Puedes apoyarnos por [PayPal](https://paypal.me/BriznaSoft).
